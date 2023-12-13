@@ -229,7 +229,7 @@ Here are the some of the important Power Reports available.
 [Detail](https://github.com/GandhiCloudLab/envizi-reports/tree/main/06-scope3-emissions-report)</td>
     </tr>
     <tr>
-        <td rowspan=2>Programs</td>
+        <td>Programs</td>
         <td>Programs Overview </td>
         <td></td>
         <td>
