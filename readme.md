@@ -234,7 +234,7 @@ Here are the some of the important Power Reports available.
         <td></td>
         <td>
 
-[link](https://github.com/GandhiCloudLab/envizi-reports/tree/main/08-programs-overview)</td>        
+[Detail](https://github.com/GandhiCloudLab/envizi-reports/tree/main/08-programs-overview)</td>        
     </tr>
     <tr>
         <td rowspan=5 >Others</td>
@@ -242,28 +242,28 @@ Here are the some of the important Power Reports available.
         <td></td>
         <td>
 
-[link](https://github.com/GandhiCloudLab/envizi-reports/tree/main/02-csr-report)</td>        
+[Detail](https://github.com/GandhiCloudLab/envizi-reports/tree/main/02-csr-report)</td>        
     </tr>
     <tr>
         <td>Programs Savings</td>
         <td></td>
         <td>
 
-[link](https://github.com/GandhiCloudLab/envizi-reports/tree/main/09-programs-savings)</td>        
+[Detail](https://github.com/GandhiCloudLab/envizi-reports/tree/main/09-programs-savings)</td>        
     </tr>
     <tr>
         <td>Utility Account Analytics</td>
         <td></td>
         <td>
 
-[link](https://github.com/GandhiCloudLab/envizi-reports/tree/main/07-utility-account-analytics)</td>
+[Detail](https://github.com/GandhiCloudLab/envizi-reports/tree/main/07-utility-account-analytics)</td>
     </tr>
     <tr>
         <td>Turbonomic Performance Dashboard</td>
         <td></td>
         <td>
 
-[link](https://github.com/GandhiCloudLab/envizi-reports/tree/main/40-turbonomic-performance-dashaboard)
+[Detail](https://github.com/GandhiCloudLab/envizi-reports/tree/main/40-turbonomic-performance-dashaboard)
         </td>        
     </tr>
 </table>
