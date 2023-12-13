@@ -40,99 +40,95 @@ At each level there are some dashboards available. Here is the list of Dashboard
         <td>Organization Summary</td>
         <td>
 
-[link](./abcd)</td>
-    </tr>
-    <tr>
-        <td>Organization Summary</td>
-        <td>[link](./abcd)</td>
+[detail](./abcd)</td>
     </tr>
     <tr>
         <td>Performance</td>
-        <td>[link](./abcd)</td>
+        <td>[detail](https://github.com/GandhiCloudLab/envizi-reports/tree/main/50-org-performance)</td>
     </tr>
     <tr>
         <td>Performance by Data Type</td>
-        <td>[link](./abcd)</td>
+        <td>[detail](https://github.com/GandhiCloudLab/envizi-reports/tree/main/50-org-performance#user-content-9-performance-by-data-type)</td>
     </tr>
     <tr>
         <td>Performance by Group</td>
-        <td>[link](./abcd)</td>
+        <td>[detail](https://github.com/GandhiCloudLab/envizi-reports/tree/main/50-org-performance#user-content-10-performance-by-group)</td>
     </tr>
     <tr>
         <td>Performance by Scope</td>
-        <td>[link](./abcd)</td>
+        <td>[detail](https://github.com/GandhiCloudLab/envizi-reports/tree/main/50-org-performance#user-content-11-performance-by-scope)</td>
     </tr>
     <tr>
         <td>Performance by Tag</td>
-        <td>[link](./abcd)</td>
+        <td>[detail](https://github.com/GandhiCloudLab/envizi-reports/tree/main/50-org-performance#user-content-12-performance-by-tag-type)</td>
     </tr>
     <tr>
         <td>Performance Trend</td>
-        <td>[link](./abcd)</td>
+        <td>[detail](https://github.com/GandhiCloudLab/envizi-reports/tree/main/50-org-performance#user-content-13-performance-trend)</td>
     </tr>
     <tr>
         <td>Emissions Performance</td>
-        <td>[link](./abcd)</td>
+        <td>[detail](https://github.com/GandhiCloudLab/envizi-reports/tree/main/51-org-emission-performance)</td>
     </tr>
     <tr>
         <td>Energy Production</td>
-        <td>[link](./abcd)</td>
+        <td>[detail](https://github.com/GandhiCloudLab/envizi-reports/tree/main/51-org-emission-performance#user-content-15-energy-production)</td>
     </tr>
     <tr>
         <td rowspan=5>BENCHMARKS</td>
         <td>Ranking Locations by Intensity</td>
-        <td>[link](./abcd)</td>
+        <td></td>
     </tr>                
     <tr>
         <td>Ranking Locations by Ratio</td>
-        <td>[link](./abcd)</td>
+        <td></td>
     </tr>     
     <tr>
         <td>Ranking Groups by Intensity</td>
-        <td>[link](./abcd)</td>
+        <td></td>
     </tr>
     <tr>
         <td>Rate Analysis</td>
-        <td>[link](./abcd)</td>
+        <td></td>
     </tr> 
     <tr>
         <td>Energy Star Portfolio</td>
-        <td>[link](./abcd)</td>
+        <td></td>
     </tr> 
     <tr>
         <td rowspan=2>SOLAR</td>
         <td>Solar Portfolio</td>
-        <td>[link](./abcd)</td>
+        <td></td>
     </tr> 
     <tr>
         <td>Solar Performance and Payback</td>
-        <td>[link](./abcd)</td>
+        <td></td>
     </tr> 
     <tr>
         <td rowspan=3>METER ALERTS</td>
         <td>Summary</td>
-        <td>[link](./abcd)</td>
+        <td></td>
     </tr> 
     <tr>
         <td>Manage Rules</td>
-        <td>[link](./abcd)</td>
+        <td></td>
     </tr> 
         <tr>
         <td>Notifications</td>
-        <td>[link](./abcd)</td>
+        <td></td>
     </tr> 
     <tr>
         <td rowspan=3>ISSUES</td>
         <td>Summary</td>
-        <td>[link](./abcd)</td>
+        <td></td>
     </tr>     
     <tr>
         <td>Scheduled Issues</td>
-        <td>[link](./abcd)</td>
+        <td></td>
     </tr>   
     <tr>
         <td>All Boards</td>
-        <td>[link](./abcd)</td>
+        <td>[detail](./abcd)</td>
     </tr>           
 </table>
 
@@ -233,7 +229,6 @@ Here are the some of the important Power Reports available.
     <tr>
         <td rowspan=5 >Others</td>
         <td>Envizi CSR Report</td>
-        <td></td>
         <td>
 
 [Detail](https://github.com/GandhiCloudLab/envizi-reports/tree/main/02-csr-report)</td>        
