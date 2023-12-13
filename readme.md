@@ -38,7 +38,9 @@ At each level there are some dashboards available. Here is the list of Dashboard
     <tr>
         <td rowspan=9>Performance</td>
         <td>Organization Summary</td>
-        <td>[link](./abcd)</td>
+        <td>
+
+[link](./abcd)</td>
     </tr>
     <tr>
         <td>Organization Summary</td>
@@ -180,27 +182,23 @@ Here are the some of the important Power Reports available.
     <theader>
         <th>Category</th>
         <th>Report Name</th>
-        <th>Description</th>
         <th>Detail</th>
     </theader>
     <tr>
         <td rowspan=3>Base Platform</td>
         <td>Sustainability (Executive Report)</td>
-        <td></td>
         <td>
 
 [Detail](https://github.com/GandhiCloudLab/envizi-reports/tree/main/01-sustainability-executive-report)</td>
     </tr>
     <tr>
         <td>Sustainability (Portfolio Performance)</td>
-        <td></td>
         <td>
 
 [Detail](https://github.com/GandhiCloudLab/envizi-reports/tree/main/12-sustainability-portfolio-performance)</td>
     </tr>
     <tr>
         <td>Account Data Health Check</td>
-        <td></td>
 <td>
 
 [Detail](https://github.com/GandhiCloudLab/envizi-reports/tree/main/11-account-data-health-check)
@@ -209,21 +207,18 @@ Here are the some of the important Power Reports available.
     <tr>
         <td rowspan=3>Configurable Content</td>
         <td>Market-based Emissions</td>
-        <td></td>
         <td>
 
 [Detail](https://github.com/GandhiCloudLab/envizi-reports/tree/main/10-market-based-emissions)</td>
     </tr>
     <tr>
         <td>CDP Climate Report</td>
-        <td></td>
         <td>
 
 [Detail](https://github.com/GandhiCloudLab/envizi-reports/tree/main/03-cdp)</td>
     </tr>
     <tr>
         <td>Scope 3 Emissions</td>
-        <td></td>
         <td>
 
 [Detail](https://github.com/GandhiCloudLab/envizi-reports/tree/main/06-scope3-emissions-report)</td>
@@ -231,7 +226,6 @@ Here are the some of the important Power Reports available.
     <tr>
         <td>Programs</td>
         <td>Programs Overview </td>
-        <td></td>
         <td>
 
 [Detail](https://github.com/GandhiCloudLab/envizi-reports/tree/main/08-programs-overview)</td>        
@@ -246,21 +240,18 @@ Here are the some of the important Power Reports available.
     </tr>
     <tr>
         <td>Programs Savings</td>
-        <td></td>
         <td>
 
 [Detail](https://github.com/GandhiCloudLab/envizi-reports/tree/main/09-programs-savings)</td>        
     </tr>
     <tr>
         <td>Utility Account Analytics</td>
-        <td></td>
         <td>
 
 [Detail](https://github.com/GandhiCloudLab/envizi-reports/tree/main/07-utility-account-analytics)</td>
     </tr>
     <tr>
         <td>Turbonomic Performance Dashboard</td>
-        <td></td>
         <td>
 
 [Detail](https://github.com/GandhiCloudLab/envizi-reports/tree/main/40-turbonomic-performance-dashaboard)
