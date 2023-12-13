@@ -207,7 +207,7 @@ Here are the some of the important Power Reports available.
 </td>
     </tr>
     <tr>
-        <td rowspan=4>Configurable Content</td>
+        <td rowspan=3>Configurable Content</td>
         <td>Market-based Emissions</td>
         <td></td>
         <td>
