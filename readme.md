@@ -437,92 +437,24 @@ Here are the some of the important Extract Reports available.
         <td>Category</td>
         <td>Report Name</td>
         <td>Description</td>
-        <td>Details</td>
     <theader>
-    <tr>
-        <td rowspan=3>Base Platform</td>
-        <td>Sustainability (Executive Report)</td>
-        <td></td>
-        <td>[]()</td>
-    </tr>
-    <tr>
-        <td>Sustainability (Portfolio Performance)</td>
-        <td></td>
-        <td>[]()</td>
-    </tr>
-    <tr>
-        <td>Account Data Health Check</td>
-        <td></td>
-        <td>[]()</td>
-    </tr>
-    <tr>
-        <td rowspan=4>Configurable Report/td>
-        <td>Sustainability (Executive Report)</td>
-        <td></td>
-        <td>[]()</td>
-    </tr>
-    <tr>
-        <td>CDP Climate Report</td>
-        <td></td>
-        <td>[]()</td>
-    </tr>    
-    <tr>
-        <td>Scope 3 Emissions</td>
-        <td></td>
-        <td>[]()</td>
-    </tr>    
-    <tr>
-        <td>CRREM Modeling Tool</td>
-        <td></td>
-        <td>[]()</td>
-    </tr>    
-    <tr>
-        <td >Utility/td>
-        <td>Utility Expense Insights</td>
-        <td></td>
-        <td>[]()</td>
-    </tr>
-    <tr>
-        <td rowspan=8>Utility/td>
-        <td> Utility Expense Insights</td>
-        <td></td>
-        <td>[]()</td>
-    </tr>    
-    <tr>
-        <td>Programs Overview </td>
-        <td></td>
-        <td>[]()</td>
-    </tr>    
-    <tr>
-        <td>Scenario Modeler Tool</td>
-        <td></td>
-        <td>[]()</td>
-    </tr>    
-    <tr>
-        <td>Envizi CSR Report</td>
-        <td></td>
-        <td>[]()</td>
-    </tr>    
-    <tr>
-        <td>ESG Performance Overview</td>
-        <td></td>
-        <td>[]()</td>
-    </tr>    
-    <tr>
-        <td>Programs Savings</td>
-        <td></td>
-        <td>[]()</td>
-    </tr>    
-    <tr>
-        <td>Utility Account Analytics</td>
-        <td></td>
-        <td>[]()</td>
-    </tr>
-    <tr>
-        <td>Turbonomic Performance Dashboard</td>
-        <td></td>
-        <td>[]()</td>
-    </tr>     
+
+<tr>	<td>	Data Management	</td><td>	Account Style Data Extract	</td><td>	This report extracts account items for a single account style	</td>	</tr>
+<tr>	<td>	Data Management	</td><td>	Annual Data Summary	</td><td>	Shows annualized data held in all the accounts and meters for selected  locations	</td>	</tr>
+<tr>	<td>	Data Management	</td><td>	Monthly Data Summary Report	</td><td>	Shows all monthly data held in all the accounts and meters for selected  locations	</td>	</tr>
+<tr>	<td>	Data Management	</td><td>	Survey Responses	</td><td>	This report creates a csv file that contains all the survery responses captured	</td>	</tr>
+<tr>	<td>	Emissions, Energy and Sustainability	</td><td>	Consumption  Summary Report	</td><td>	It provides a comprehensive review of the CO2e attributable to a location	</td>	</tr>
+<tr>	<td>	Emissions, Energy and Sustainability	</td><td>	Emission and Energy Factors	</td><td>	This report lists the factors used to calculate the GHG emissions and energy consumed or produced within your organization.	</td>	</tr>
+<tr>	<td>	Emissions, Energy and Sustainability	</td><td>	Emission Sources Summary Report	</td><td>	This report shows how much was consumed (kWh, L of fuel, etc.) at all locations and how much CO2e was emitted as a result.	</td>	</tr>
+<tr>	<td>	Emissions, Energy and Sustainability	</td><td>	Emissions by GHG Type	</td><td>	This report summarizes emissions by Greenhouse Gas.	</td>	</tr>
+<tr>	<td>	System Setup Reports	</td><td>	Account Style Extract	</td><td>	This report lists all account styles in Envizi and their associated data type, sub type, field names (C1-C40) and account style rules.	</td>	</tr>
+<tr>	<td>	Emissions, Energy and Sustainability	</td><td>	Energy Consumption Detailed	</td><td>	his report shows activity data in native units and energy in GJ for all locations across your organization.	</td>	</tr>
+<tr>	<td>	EPA Energy Star Reports	</td><td>	Energy Star Ratings	</td><td>	extracts Energy Star ratings details that have been captured in Location Ratings	</td>	</tr>
+<tr>	<td>	Extract Reports	</td><td>	Attachment Summary	</td><td>	provides a list of attachments across the Organization from Organization, Group, Location, Account and Meter levels	</td>	</tr>
+<tr>	<td>	Extract Reports	</td><td>	Audit History Report	</td><td>	This report lists all changes made by a specified user within a company for the selected period.	</td>	</tr>
+<tr>	<td>	Extract Reports	</td><td>	Extract for Accounts	</td><td>	The report details account info such as account style, data type, location name and etc	</td>	</tr>
+<tr>	<td>	Target Reports	</td><td>	Monthly Performance - Actual vs Target and Budget	</td><td>	Report compares the actual consumption in native units and cost  for a selected period	</td>	</tr>
+
 </table>
 
 ## 3.2 How to extract the report
@@ -548,21 +480,22 @@ The second page is displayed.
 The csv file looks like this.
 <img src="images/301-extract-report-monthly-data-summary-6.png">
 
-# 4 API
+# 4 Envizi API
 
-The Envizi API promotes sharing of data from the Envizi platform and allows users to access and retrieve data from Envizi directly through to compatible third-party software, such as Microsoft Excel, Tableau or Power BI, without the need to log in to Envizi's main user interface. 
+The Envizi API helps to export data from the Envizi platform and allows users to access and retrieve data from Envizi directly through compatible third party software, such as Microsoft Excel, Tableau or Power BI, without the need to log in to Envizi's main user interface. This process is secured and it enables the users to create and consume custom dashboards and reports.
 
-- Envizi API is an add-on feature in freeing up the data within Envizi
-- Saves time and streamlines reporting and data analytics needs
-- Extract multiple data sets at once
-- Reports maintain data connectivity & can be refreshed by a user at anytime
-- Combine these data sets to create a single reporting output 
-- Envizi can integrate with your organization’s 3rd party reporting tools
+The Envizi API is built on top of Envizi's existing reporting framework. A selective list of Envizi reports can be exposed as APIs after going through a certification and validation process. With the Envizi API, users are able to get data in a pre-defined tabular report format which allows for further BI analysis and manipulation in the client tool. 
 
-Refer the documentation.
+Techically, Envizi API is a Web Service API which employs RESTful architecture and returns data in JSON format. 
+
+Using the APIs you can able to retrive the following.
+Retrieve report names
+Retrieve report parameters
+Retrieve report data
+
+Refer the below article to know more about How to use Envizi API.
 
 Use APIs to expose Envizi data to external systems
 https://developer.ibm.com/articles/use-apis-to-expose-envizi-data-for-external-systems/
 
-https://knowledgebase.envizi.com/home/envizi-api-overview
- 
+
