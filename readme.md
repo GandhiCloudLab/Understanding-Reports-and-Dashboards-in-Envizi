@@ -187,80 +187,112 @@ Here are the some of the important Power Reports available.
         <td rowspan=3>Base Platform</td>
         <td>Sustainability (Executive Report)</td>
         <td></td>
-        <td>[link](https://github.com/GandhiCloudLab/envizi-reports/tree/main/01-sustainability-executive-report)</td>
+        <td>
+
+[link](https://github.com/GandhiCloudLab/envizi-reports/tree/main/01-sustainability-executive-report)</td>
     </tr>
     <tr>
         <td>Sustainability (Portfolio Performance)</td>
         <td></td>
-        <td>[link](https://github.com/GandhiCloudLab/envizi-reports/tree/main/12-sustainability-portfolio-performance)</td>
+        <td>
+
+[link](https://github.com/GandhiCloudLab/envizi-reports/tree/main/12-sustainability-portfolio-performance)</td>
     </tr>
     <tr>
         <td>Account Data Health Check</td>
         <td></td>
-        <td>[link](https://github.com/GandhiCloudLab/envizi-reports/tree/main/11-account-data-health-check) </td>
+<td>
+
+[link](https://github.com/GandhiCloudLab/envizi-reports/tree/main/11-account-data-health-check)
+</td>
     </tr>
     <tr>
         <td rowspan=5>Configurable Content</td>
         <td>Market-based Emissions</td>
         <td></td>
-        <td>[link](https://github.com/GandhiCloudLab/envizi-reports/tree/main/10-market-based-emissions)</td>
+        <td>
+
+[link](https://github.com/GandhiCloudLab/envizi-reports/tree/main/10-market-based-emissions)</td>
     </tr>
     <tr>
         <td>CDP Climate Report</td>
         <td></td>
-        <td>[link](https://github.com/GandhiCloudLab/envizi-reports/tree/main/03-cdp)</td>
+        <td>
+
+[link](https://github.com/GandhiCloudLab/envizi-reports/tree/main/03-cdp)</td>
     </tr>
     <tr>
         <td>Scope 3 Emissions</td>
         <td></td>
-        <td>[link](https://github.com/GandhiCloudLab/envizi-reports/tree/main/06-scope3-emissions-report)</td>
+        <td>
+
+[link](https://github.com/GandhiCloudLab/envizi-reports/tree/main/06-scope3-emissions-report)</td>
     </tr>
     <tr>
         <td>CRREM Modeling Tool</td>
         <td></td>
-        <td>[link](aaa)</td>
+        <td>
+
+[link](aaa)</td>
     </tr>
     <tr>
         <td>Utility Expense Insights</td>
         <td></td>
-        <td>[link](aaa)</td>        
+        <td>
+
+[link](aaa)</td>        
     </tr>
     <tr>
         <td rowspan=2>Programs</td>
         <td>Programs Overview </td>
         <td></td>
-        <td>[link](https://github.com/GandhiCloudLab/envizi-reports/tree/main/08-programs-overview)</td>        
+        <td>
+
+[link](https://github.com/GandhiCloudLab/envizi-reports/tree/main/08-programs-overview)</td>        
     </tr>
     <tr>
         <td>Scenario Modeler Tool</td>
         <td></td>
-        <td>[link](./abcd)</td>        
+        <td>
+
+[link](./abcd)</td>        
     </tr>
     <tr>
         <td rowspan=5 >Others</td>
         <td>Envizi CSR Report</td>
         <td></td>
-        <td>[link](https://github.com/GandhiCloudLab/envizi-reports/tree/main/02-csr-report)</td>        
+        <td>
+
+[link](https://github.com/GandhiCloudLab/envizi-reports/tree/main/02-csr-report)</td>        
     </tr>
     <tr>
         <td>ESG Performance Overview</td>
         <td></td>
-        <td>[link](aaa)</td>        
+        <td>
+
+[link](aaa)</td>        
     </tr>
     <tr>
         <td>Programs Savings</td>
         <td></td>
-        <td>[link](https://github.com/GandhiCloudLab/envizi-reports/tree/main/09-programs-savings)</td>        
+        <td>
+
+[link](https://github.com/GandhiCloudLab/envizi-reports/tree/main/09-programs-savings)</td>        
     </tr>
     <tr>
         <td>Utility Account Analytics</td>
         <td></td>
-        <td>[link](https://github.com/GandhiCloudLab/envizi-reports/tree/main/07-utility-account-analytics)</td>
+        <td>
+
+[link](https://github.com/GandhiCloudLab/envizi-reports/tree/main/07-utility-account-analytics)</td>
     </tr>
     <tr>
         <td>Turbonomic Performance Dashboard</td>
         <td></td>
-        <td>[link](https://github.com/GandhiCloudLab/envizi-reports/tree/main/40-turbonomic-performance-dashaboard)</td>        
+        <td>
+
+[link](https://github.com/GandhiCloudLab/envizi-reports/tree/main/40-turbonomic-performance-dashaboard)
+        </td>        
     </tr>
 </table>
 
