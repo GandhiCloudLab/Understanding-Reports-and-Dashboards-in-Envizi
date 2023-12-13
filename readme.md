@@ -178,32 +178,32 @@ Here are the some of the important Power Reports available.
 
 <table>
     <theader>
-        <td>Category</td>
-        <td>Report Name</td>
-        <td>Description</td>
-        <td>Detail</td>
-    <theader>
+        <th>Category</th>
+        <th>Report Name</th>
+        <th>Description</th>
+        <th>Detail</th>
+    </theader>
     <tr>
         <td rowspan=3>Base Platform</td>
         <td>Sustainability (Executive Report)</td>
         <td></td>
         <td>
 
-[link](https://github.com/GandhiCloudLab/envizi-reports/tree/main/01-sustainability-executive-report)</td>
+[Detail](https://github.com/GandhiCloudLab/envizi-reports/tree/main/01-sustainability-executive-report)</td>
     </tr>
     <tr>
         <td>Sustainability (Portfolio Performance)</td>
         <td></td>
         <td>
 
-[link](https://github.com/GandhiCloudLab/envizi-reports/tree/main/12-sustainability-portfolio-performance)</td>
+[Detail](https://github.com/GandhiCloudLab/envizi-reports/tree/main/12-sustainability-portfolio-performance)</td>
     </tr>
     <tr>
         <td>Account Data Health Check</td>
         <td></td>
 <td>
 
-[link](https://github.com/GandhiCloudLab/envizi-reports/tree/main/11-account-data-health-check)
+[Detail](https://github.com/GandhiCloudLab/envizi-reports/tree/main/11-account-data-health-check)
 </td>
     </tr>
     <tr>
@@ -212,35 +212,21 @@ Here are the some of the important Power Reports available.
         <td></td>
         <td>
 
-[link](https://github.com/GandhiCloudLab/envizi-reports/tree/main/10-market-based-emissions)</td>
+[Detail](https://github.com/GandhiCloudLab/envizi-reports/tree/main/10-market-based-emissions)</td>
     </tr>
     <tr>
         <td>CDP Climate Report</td>
         <td></td>
         <td>
 
-[link](https://github.com/GandhiCloudLab/envizi-reports/tree/main/03-cdp)</td>
+[Detail](https://github.com/GandhiCloudLab/envizi-reports/tree/main/03-cdp)</td>
     </tr>
     <tr>
         <td>Scope 3 Emissions</td>
         <td></td>
         <td>
 
-[link](https://github.com/GandhiCloudLab/envizi-reports/tree/main/06-scope3-emissions-report)</td>
-    </tr>
-    <tr>
-        <td>CRREM Modeling Tool</td>
-        <td></td>
-        <td>
-
-[link](aaa)</td>
-    </tr>
-    <tr>
-        <td>Utility Expense Insights</td>
-        <td></td>
-        <td>
-
-[link](aaa)</td>        
+[Detail](https://github.com/GandhiCloudLab/envizi-reports/tree/main/06-scope3-emissions-report)</td>
     </tr>
     <tr>
         <td rowspan=2>Programs</td>
@@ -251,26 +237,12 @@ Here are the some of the important Power Reports available.
 [link](https://github.com/GandhiCloudLab/envizi-reports/tree/main/08-programs-overview)</td>        
     </tr>
     <tr>
-        <td>Scenario Modeler Tool</td>
-        <td></td>
-        <td>
-
-[link](./abcd)</td>        
-    </tr>
-    <tr>
         <td rowspan=5 >Others</td>
         <td>Envizi CSR Report</td>
         <td></td>
         <td>
 
 [link](https://github.com/GandhiCloudLab/envizi-reports/tree/main/02-csr-report)</td>        
-    </tr>
-    <tr>
-        <td>ESG Performance Overview</td>
-        <td></td>
-        <td>
-
-[link](aaa)</td>        
     </tr>
     <tr>
         <td>Programs Savings</td>
