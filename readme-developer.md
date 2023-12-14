@@ -32,10 +32,10 @@ Several controls are available in Dashboard.
 ## 1.1 Available Dashboards
 Here is a list of important dashboards within Envizi.
 <table>
-    <theader>
+    <tr>
         <th>Category</th>
         <th>Report Name</th>
-    <theader>
+    </tr>
     <tr>
         <td rowspan=9>Performance</td>
         <td>
@@ -155,10 +155,10 @@ Envizi PowerReport is supercharged by Microsoft PowerBI. Envizi content powered 
 Here are some of the important Power Reports available.
 
 <table>
-    <theader>
+    <tr>
         <th>Category</th>
         <th>Report Name</th>
-    </theader>
+    </tr>
     <tr>
         <td rowspan=3>Base Platform</td>
         <td>
@@ -369,28 +369,85 @@ Click Submit to run the report based on the selected parameters.
 Here are some of the important Extract Reports available.
 
 <table>
-    <theader>
-        <td>Category</td>
-        <td>Report Name</td>
-        <td>Description</td>
-    <theader>
-
-<tr>	<td>	Data Management	</td><td>	Account Style Data Extract	</td><td>	This report extracts account items for a single account style	</td>	</tr>
-<tr>	<td>	Data Management	</td><td>	Annual Data Summary	</td><td>	Shows annualized data held in all the accounts and meters for selected  locations	</td>	</tr>
-<tr>	<td>	Data Management	</td><td>	Monthly Data Summary Report	</td><td>	Shows all monthly data held in all the accounts and meters for selected  locations	</td>	</tr>
-<tr>	<td>	Data Management	</td><td>	Survey Responses	</td><td>	This report creates a csv file that contains all the survey responses captured	</td>	</tr>
-<tr>	<td>	Emissions, Energy and Sustainability	</td><td>	Consumption  Summary Report	</td><td>	It provides a comprehensive review of the CO2e attributable to a location	</td>	</tr>
-<tr>	<td>	Emissions, Energy and Sustainability	</td><td>	Emission and Energy Factors	</td><td>	This report lists the factors used to calculate the GHG emissions and energy consumed or produced within your organization.	</td>	</tr>
-<tr>	<td>	Emissions, Energy and Sustainability	</td><td>	Emission Sources Summary Report	</td><td>	This report shows how much was consumed (kWh, L of fuel, etc.) at all locations and how much CO2e was emitted as a result.	</td>	</tr>
-<tr>	<td>	Emissions, Energy and Sustainability	</td><td>	Emissions by GHG Type	</td><td>	This report summarizes emissions by Greenhouse Gas.	</td>	</tr>
-<tr>	<td>	System Setup Reports	</td><td>	Account Style Extract	</td><td>	This report lists all account styles in Envizi and their associated data type, sub type, field names (C1-C40) and account style rules.	</td>	</tr>
-<tr>	<td>	Emissions, Energy and Sustainability	</td><td>	Energy Consumption Detailed	</td><td>	his report shows activity data in native units and energy in GJ for all locations across your organization.	</td>	</tr>
-<tr>	<td>	EPA Energy Star Reports	</td><td>	Energy Star Ratings	</td><td>	extracts Energy Star ratings details that have been captured in Location Ratings	</td>	</tr>
-<tr>	<td>	Extract Reports	</td><td>	Attachment Summary	</td><td>	provides a list of attachments across the Organization from Organization, Group, Location, Account and Meter levels	</td>	</tr>
-<tr>	<td>	Extract Reports	</td><td>	Audit History Report	</td><td>	This report lists all changes made by a specified user within a company for the selected period.	</td>	</tr>
-<tr>	<td>	Extract Reports	</td><td>	Extract for Accounts	</td><td>	The report details account info such as account style, data type, location name and etc	</td>	</tr>
-<tr>	<td>	Target Reports	</td><td>	Monthly Performance - Actual vs Target and Budget	</td><td>	Report compares the actual consumption in native units and cost  for a selected period	</td>	</tr>
-
+    <tr>
+        <th>Category</th>
+        <th>Report Name</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+        <td>Data Management</td>   
+        <td>Account Style Data Extract</td>
+        <td>This report extracts account items for a single account style</td>	
+    </tr>
+    <tr>
+        <td>Data Management</td>
+        <td>Annual Data Summary</td>
+        <td>Shows annualized data held in all the accounts and meters for selected  locations</td>
+    </tr>
+    <tr>
+        <td>Data Management</td>
+        <td>Monthly Data Summary Report</td>
+        <td>Shows all monthly data held in all the accounts and meters for selected  locations</td>	
+    </tr>
+    <tr>
+        <td>Data Management</td>
+        <td>Survey Responses</td>
+        <td>This report creates a csv file that contains all the survey responses captured</td>
+    </tr>
+    <tr>
+        <td>Emissions, Energy and Sustainability</td>
+        <td>Consumption  Summary Report</td>
+        <td>It provides a comprehensive review of the CO2e attributable to a location</td>	
+    </tr>
+    <tr>
+        <td>Emissions, Energy and Sustainability</td>
+        <td>Emission and Energy Factors</td>
+        <td>This report lists the factors used to calculate the GHG emissions and energy consumed or produced within your organization.</td>	
+    </tr>
+    <tr>
+        <td>Emissions, Energy and Sustainability</td>
+        <td>Emission Sources Summary Report</td>
+        <td>This report shows how much was consumed (kWh, L of fuel, etc.) at all locations and how much CO2e was emitted as a result.</td>	
+    </tr>
+    <tr>
+        <td>Emissions, Energy and Sustainability</td>
+        <td>Emissions by GHG Type</td>
+        <td>This report summarizes emissions by Greenhouse Gas.</td>
+    </tr>
+    <tr>
+        <td>System Setup Reports</td>
+        <td>Account Style Extract</td>
+        <td>This report lists all account styles in Envizi and their associated data type, sub type, field names (C1-C40) and account style rules.</td>	
+    </tr>
+    <tr>
+        <td>Emissions, Energy and Sustainability</td>
+        <td>Energy Consumption Detailed</td>
+        <td>his report shows activity data in native units and energy in GJ for all locations across your organization.</td>	
+    </tr>
+    <tr>
+        <td>EPA Energy Star Reports</td>
+        <td>Energy Star Ratings</td>
+        <td>extracts Energy Star ratings details that have been captured in Location Ratings</td>	
+    </tr>
+    <tr>
+        <td>Extract Reports</td>
+        <td>Attachment Summary</td>
+        <td>provides a list of attachments across the Organization from Organization, Group, Location, Account and Meter levels</td>	
+    </tr>
+    <tr>
+        <td>Extract Reports</td>
+        <td>Audit History Report</td>
+        <td>This report lists all changes made by a specified user within a company for the selected period.</td>
+    <tr>
+        <td>Extract Reports</td>
+        <td>Extract for Accounts</td>
+        <td>The report details account info such as account style, data type, location name and etc</td>	
+    </tr>
+    <tr>
+        <td>Target Reports</td>
+        <td>Monthly Performance - Actual vs Target and Budget</td>
+        <td>Report compares the actual consumption in native units and cost  for a selected period</td>
+    </tr>
 </table>
 
 ## 3.2 How to extract the report
