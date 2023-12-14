@@ -2,9 +2,9 @@
 
 In this article, let us understand about the various reports and dashboards available in IBM Envizi ESG suite.
 
-You will also be assisted with all the navigations that you can click and view on the dashboaard to explore more details and view insights.
+You will also be assisted with all the navigations that you can click and view on the dashboard to explore more details and view insights.
 
-These insights will be help the use to make more informed decisions for optimal emissions management and to take next steps for decarbonization journey.
+These insights will be help the users to make more informed decisions for optimal emissions management and to take next steps for decarbonization journey.
 
 There are 4 types of reports available in Envizi.
 - Dashboards
@@ -33,14 +33,14 @@ Several controls are available in Dashboard.
 Here is a list of important dashboards within Envizi.
 <table>
     <theader>
-        <td>Category</td>
-        <td>Report Name</td>
+        <th>Category</th>
+        <th>Report Name</th>
     <theader>
     <tr>
         <td rowspan=9>Performance</td>
         <td>
 
-[Organization Summary](./https://github.com/GandhiCloudLab/envizi-reports/tree/main/50-org-summary)</td>
+[Organization Summary](https://github.com/GandhiCloudLab/envizi-reports/tree/main/50-org-summary)</td>
     </tr>
     <tr>
         <td>[Performance](https://github.com/GandhiCloudLab/envizi-reports/tree/main/51-org-performance)</td>
@@ -77,18 +77,14 @@ Here is a list of important dashboards within Envizi.
         <td>[Ranking Groups by Intensity](https://github.com/GandhiCloudLab/envizi-reports/tree/main/63-dashboard-ranking-groups-by-intensity)</td>
     </tr>
     <tr>
-        <td>Rate Analysis</td>
-        <td>[Detail](https://github.com/GandhiCloudLab/envizi-reports/tree/main/64-dashboard-rate-analysis)</td>
+        <td>[Rate Analysis](https://github.com/GandhiCloudLab/envizi-reports/tree/main/64-dashboard-rate-analysis)</td>
     </tr> 
     <tr>
         <td>[Energy Star Portfolio](https://github.com/GandhiCloudLab/envizi-reports/tree/main/65-dashboard-energy-star-portfolio)</td>
     </tr> 
     <tr>
-        <td rowspan=2>SOLAR</td>
+        <td>SOLAR</td>
         <td>[Solar Portfolio](https://github.com/GandhiCloudLab/envizi-reports/tree/main/66-dashboard-solar-portfolio)</td>
-    </tr> 
-    <tr>
-        <td>[Solar Performance and Payback](https://github.com/GandhiCloudLab/envizi-reports/tree/main/67-dashboard-solar-performance-and-payback)</td>
     </tr> 
     <tr>
         <td rowspan=2>METER ALERTS</td>
@@ -156,7 +152,7 @@ Envizi PowerReport is supercharged by Microsoft PowerBI. Envizi content powered 
 
 ## 2.1 Available Power Reports
 
-Here are the some of the important Power Reports available.
+Here are some of the important Power Reports available.
 
 <table>
     <theader>
@@ -370,7 +366,7 @@ Click Submit to run the report based on the selected parameters.
 
 ## 3.1 Available Extract Reports
 
-Here are the some of the important Extract Reports available.
+Here are some of the important Extract Reports available.
 
 <table>
     <theader>
