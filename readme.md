@@ -378,11 +378,11 @@ Here are the steps to edit the power report.
 
 ## 2.5 PowerReport Datasets
 
-PowerReport Datasets is a datasource for the Power Reports in Envizi. 
+PowerReport Datasets are the `datasources` for the Power Reports in Envizi.  
 
 PowerReports can be viewed, edited and saved, and shared with other Envizi users within the organization.  
 
-For customers who want to build their own reports and edit the existing reports they can make use of this Dataset as a datasource.
+Customers wishing to create their own reports or modify existing ones needs to utilize this dataset as a data source.
 
 Here are the 3 datasets available in Envizi.
 
@@ -392,13 +392,13 @@ The Monthly Dataset is an extensive collection of `monthly aggregated data` from
 
 #### Survey Dataset
 
-The Survey Dataset facilitates reporting on surveys and scorecards in Envizi’s PowerReport framework.
+The Survey Dataset facilitates reporting on `surveys and scorecards` in Envizi’s PowerReport framework.
 
-The dataset includes all survey responses for all surveys where at least one question has been answered. Survey responses from locations where no answers have been provided by respondents will be excluded from the dataset.
+The dataset `includes all survey responses` for all surveys where at least one question has been answered. Survey responses from locations where no answers have been provided by respondents will be excluded from the dataset.
 
 #### Daily Dataset
 
-This dataset comprises various daily metrics obtained from interval meter data. This dataset is included as part of the Interval Meter Analytics module.
+This dataset comprises various `daily metrics` obtained from `interval meter data`. This dataset is included as part of the Interval Meter Analytics module.
 
 # 3 Extract Reports
 
