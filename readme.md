@@ -2,6 +2,10 @@
 
 In this article, let us understand about the various reports and dashboards available in IBM Envizi ESG suite.
 
+You will also be assisted with all the navigations that you can click and view on the dashboaard to explore more details and view insights.
+
+These insights will be help the use to make more informed decisions for optimal emissions management and to take next steps for decarbonization journey.
+
 There are 4 types of reports available in Envizi.
 - Dashboards
 - Power Reports
@@ -31,102 +35,77 @@ Here is a list of important dashboards within Envizi.
     <theader>
         <td>Category</td>
         <td>Report Name</td>
-        <td>Details</td>
     <theader>
     <tr>
         <td rowspan=9>Performance</td>
-        <td>Organization Summary</td>
         <td>
 
-[Detail](./abcd)</td>
+[Organization Summary](./https://github.com/GandhiCloudLab/envizi-reports/tree/main/50-org-summary)</td>
     </tr>
     <tr>
-        <td>Performance</td>
-        <td>[Detail](https://github.com/GandhiCloudLab/envizi-reports/tree/main/50-org-performance)</td>
+        <td>[Performance](https://github.com/GandhiCloudLab/envizi-reports/tree/main/51-org-performance)</td>
     </tr>
     <tr>
-        <td>Performance by Data Type</td>
-        <td>[Detail](https://github.com/GandhiCloudLab/envizi-reports/tree/main/50-org-performance#user-content-9-performance-by-data-type)</td>
+        <td>[Performance by Data Type](https://github.com/GandhiCloudLab/envizi-reports/tree/main/52-org-performance-by-datatype)</td>
     </tr>
     <tr>
-        <td>Performance by Group</td>
-        <td>[Detail](https://github.com/GandhiCloudLab/envizi-reports/tree/main/50-org-performance#user-content-10-performance-by-group)</td>
+        <td>[Performance by Group](https://github.com/GandhiCloudLab/envizi-reports/tree/main/53-org-performance-by-group)</td>
     </tr>
     <tr>
-        <td>Performance by Scope</td>
-        <td>[Detail](https://github.com/GandhiCloudLab/envizi-reports/tree/main/50-org-performance#user-content-11-performance-by-scope)</td>
+        <td>[Performance by Scope](https://github.com/GandhiCloudLab/envizi-reports/tree/main/54-org-performance-by-scope)</td>
     </tr>
     <tr>
-        <td>Performance by Tag</td>
-        <td>[Detail](https://github.com/GandhiCloudLab/envizi-reports/tree/main/50-org-performance#user-content-12-performance-by-tag-type)</td>
+        <td>[Performance by Tag](https://github.com/GandhiCloudLab/envizi-reports/tree/main/55-org-performance-by-tagtype)</td>
     </tr>
     <tr>
-        <td>Performance Trend</td>
-        <td>[Detail](https://github.com/GandhiCloudLab/envizi-reports/tree/main/50-org-performance#user-content-13-performance-trend)</td>
+        <td>[Performance Trend](https://github.com/GandhiCloudLab/envizi-reports/tree/main/56-org-performance-by-trend)</td>
     </tr>
     <tr>
-        <td>Emissions Performance</td>
-        <td>[Detail](https://github.com/GandhiCloudLab/envizi-reports/tree/main/51-org-emission-performance)</td>
+        <td>[Emissions Performance](https://github.com/GandhiCloudLab/envizi-reports/tree/main/57-org-emission-performance)</td>
     </tr>
     <tr>
-        <td>Energy Production</td>
-        <td>[Detail](https://github.com/GandhiCloudLab/envizi-reports/tree/main/51-org-emission-performance#user-content-15-energy-production)</td>
+        <td>[Energy Production](https://github.com/GandhiCloudLab/envizi-reports/tree/main/60-dashboard-energy-production)</td>
     </tr>
     <tr>
         <td rowspan=5>BENCHMARKS</td>
-        <td>Ranking Locations by Intensity</td>
-        <td></td>
+        <td>[Ranking Locations by Intensity](https://github.com/GandhiCloudLab/envizi-reports/tree/main/61-dashboard-ranking-locations-by-intensity)</td>
     </tr>                
     <tr>
-        <td>Ranking Locations by Ratio</td>
-        <td></td>
+        <td>[Ranking Locations by Ratio](https://github.com/GandhiCloudLab/envizi-reports/tree/main/62-dashboard-ranking-locations-by-ratio)</td>
     </tr>     
     <tr>
-        <td>Ranking Groups by Intensity</td>
-        <td></td>
+        <td>[Ranking Groups by Intensity](https://github.com/GandhiCloudLab/envizi-reports/tree/main/63-dashboard-ranking-groups-by-intensity)</td>
     </tr>
     <tr>
         <td>Rate Analysis</td>
-        <td></td>
+        <td>[Detail](https://github.com/GandhiCloudLab/envizi-reports/tree/main/64-dashboard-rate-analysis)</td>
     </tr> 
     <tr>
-        <td>Energy Star Portfolio</td>
-        <td></td>
+        <td>[Energy Star Portfolio](https://github.com/GandhiCloudLab/envizi-reports/tree/main/65-dashboard-energy-star-portfolio)</td>
     </tr> 
     <tr>
         <td rowspan=2>SOLAR</td>
-        <td>Solar Portfolio</td>
-        <td></td>
+        <td>[Solar Portfolio](https://github.com/GandhiCloudLab/envizi-reports/tree/main/66-dashboard-solar-portfolio)</td>
     </tr> 
     <tr>
-        <td>Solar Performance and Payback</td>
-        <td></td>
+        <td>[Solar Performance and Payback](https://github.com/GandhiCloudLab/envizi-reports/tree/main/67-dashboard-solar-performance-and-payback)</td>
     </tr> 
     <tr>
-        <td rowspan=3>METER ALERTS</td>
-        <td>Summary</td>
-        <td></td>
+        <td rowspan=2>METER ALERTS</td>
+        <td>[Summary](https://github.com/GandhiCloudLab/envizi-reports/tree/main/68-dashboard-meter-alerts-summary)</td>
     </tr> 
     <tr>
-        <td>Manage Rules</td>
-        <td></td>
-    </tr> 
-        <tr>
-        <td>Notifications</td>
-        <td></td>
+        <td>[Notifications](https://github.com/GandhiCloudLab/envizi-reports/tree/main/70-dashboard-meter-alerts-notifications)</td>
     </tr> 
     <tr>
         <td rowspan=3>ISSUES</td>
-        <td>Summary</td>
-        <td></td>
+        <td>[Summary](https://github.com/GandhiCloudLab/envizi-reports/tree/main/71-dashboard-issues-summary)</td>
     </tr>     
     <tr>
-        <td>Scheduled Issues</td>
-        <td></td>
+        <td>[Scheduled Issues](https://github.com/GandhiCloudLab/envizi-reports/tree/main/72-dashboard-issues-all-issues)</td>
     </tr>   
     <tr>
-        <td>All Boards</td>
-        <td>[Detail](./abcd)</td>
+        <td>[All Boards](https://github.com/GandhiCloudLab/envizi-reports/tree/main/73-dashboard-issues-all-boards)</td>
     </tr>           
 </table>
 
@@ -183,78 +162,48 @@ Here are the some of the important Power Reports available.
     <theader>
         <th>Category</th>
         <th>Report Name</th>
-        <th>Detail</th>
     </theader>
     <tr>
         <td rowspan=3>Base Platform</td>
-        <td>Sustainability (Executive Report)</td>
         <td>
-
-[Detail](https://github.com/GandhiCloudLab/envizi-reports/tree/main/01-sustainability-executive-report)</td>
+        
+[Sustainability (Executive Report)](https://github.com/GandhiCloudLab/envizi-reports/tree/main/01-sustainability-executive-report)</td>
     </tr>
     <tr>
-        <td>Sustainability (Portfolio Performance)</td>
-        <td>
-
-[Detail](https://github.com/GandhiCloudLab/envizi-reports/tree/main/12-sustainability-portfolio-performance)</td>
+        <td>[Sustainability (Portfolio Performance)](https://github.com/GandhiCloudLab/envizi-reports/tree/main/12-sustainability-portfolio-performance)</td>
     </tr>
     <tr>
-        <td>Account Data Health Check</td>
-<td>
-
-[Detail](https://github.com/GandhiCloudLab/envizi-reports/tree/main/11-account-data-health-check)
+    <td>[Account Data Health Check](https://github.com/GandhiCloudLab/envizi-reports/tree/main/11-account-data-health-check)
 </td>
     </tr>
     <tr>
         <td rowspan=3>Configurable Content</td>
-        <td>Market-based Emissions</td>
         <td>
 
-[Detail](https://github.com/GandhiCloudLab/envizi-reports/tree/main/10-market-based-emissions)</td>
+[Market-based Emissions](https://github.com/GandhiCloudLab/envizi-reports/tree/main/10-market-based-emissions)</td>
     </tr>
     <tr>
-        <td>CDP Climate Report</td>
-        <td>
-
-[Detail](https://github.com/GandhiCloudLab/envizi-reports/tree/main/03-cdp)</td>
+        <td>[CDP Climate Report](https://github.com/GandhiCloudLab/envizi-reports/tree/main/03-cdp)</td>
     </tr>
     <tr>
-        <td>Scope 3 Emissions</td>
-        <td>
-
-[Detail](https://github.com/GandhiCloudLab/envizi-reports/tree/main/06-scope3-emissions-report)</td>
+        <td>[Scope 3 Emissions](https://github.com/GandhiCloudLab/envizi-reports/tree/main/06-scope3-emissions-report)</td>
     </tr>
     <tr>
         <td>Programs</td>
-        <td>Programs Overview </td>
-        <td>
-
-[Detail](https://github.com/GandhiCloudLab/envizi-reports/tree/main/08-programs-overview)</td>        
+        <td>[Programs Overview](https://github.com/GandhiCloudLab/envizi-reports/tree/main/08-programs-overview)</td>        
     </tr>
     <tr>
         <td rowspan=5 >Others</td>
-        <td>Envizi CSR Report</td>
-        <td>
-
-[Detail](https://github.com/GandhiCloudLab/envizi-reports/tree/main/02-csr-report)</td>        
+        <td>[Envizi CSR Report](https://github.com/GandhiCloudLab/envizi-reports/tree/main/02-csr-report)</td>        
     </tr>
     <tr>
-        <td>Programs Savings</td>
-        <td>
-
-[Detail](https://github.com/GandhiCloudLab/envizi-reports/tree/main/09-programs-savings)</td>        
+        <td>[Programs Savings](https://github.com/GandhiCloudLab/envizi-reports/tree/main/09-programs-savings)</td>        
     </tr>
     <tr>
-        <td>Utility Account Analytics</td>
-        <td>
-
-[Detail](https://github.com/GandhiCloudLab/envizi-reports/tree/main/07-utility-account-analytics)</td>
+        <td>[Utility Account Analytics](https://github.com/GandhiCloudLab/envizi-reports/tree/main/07-utility-account-analytics)</td>
     </tr>
     <tr>
-        <td>Turbonomic Performance Dashboard</td>
-        <td>
-
-[Detail](https://github.com/GandhiCloudLab/envizi-reports/tree/main/40-turbonomic-performance-dashaboard)
+        <td>[Turbonomic Performance Dashboard](https://github.com/GandhiCloudLab/envizi-reports/tree/main/40-turbonomic-performance-dashaboard)
         </td>        
     </tr>
 </table>
