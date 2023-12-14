@@ -10,11 +10,12 @@ There are 4 types of reports available in Envizi.
 
 # 1 Dashboards
 
-Dashboards are interactive pages that allow the reporting and display of data in a visual format.
+Dashboards are dynamic pages enabling the visualization and reporting of data in a graphical format.
 
-Dashboards are available at all levels (Organizational, Group, Location, Account, Meter) generally where there is a Summary page:
+They're accessible across different levels (Organizational, Group, Location, Account, Meter), typically found on a Summary page.
 
-Here is the peformance dashboard of the entire organization.
+Below is the performance dashboard of the entire organization.
+
 <img src="images/190-dashboard-1.png">
 
 Several controls are available in Dashboard.
@@ -23,12 +24,9 @@ Several controls are available in Dashboard.
 - `View As` specifies the Unit of measure for the data in the dashboard. 
 - `Time slider` indicates the current period chosen to display.
 - The `filter` funnel activates the filtering options available: Groups, Measures, Regions, Locations.
--`Actions` activates the Email dashboard or Schedule a Dashboard options
 
 ## 1.1 Available Dashboards
-
-At each level there are some dashboards available. Here is the list of important Dashboards available in Envizi.
-
+Here is a list of important dashboards within Envizi.
 <table>
     <theader>
         <td>Category</td>
@@ -134,12 +132,13 @@ At each level there are some dashboards available. Here is the list of important
 
 ## 1.2 How to access Dashboards
 
-Here are some dashboards available globally at the organization level. They can be accessed via several menus in Envizi.
-
+The `Monitor` menu in top navigation contains several sub menus under the sections `PERFORMANCE`, `BENCHMARKS` and `METER ALERTS`. They are all the dashboards  available in Envizi.
 <img src="images/140-menu-0-org-monitor.png">
 
+Dashboards are available at different levels in Envizi.
+
 #### Organization Level
-Here are the links to various dashboards available at the organization level. To access a dashboard, you could choose a menu item available in the first section (hightlighted in dotted light blue line) of the each menu.
+Here are the links to various dashboards available at the organization level. The menu items available in the first section (highlighted in dotted light blue line) of the each menu are the dashboards link.
 <img src="images/140-menu-1-org.png">
 
 #### Group Level
@@ -159,6 +158,12 @@ Here are the links to various  dashboards available at the account level.
 Let us explore a dashboard in detail.
 
 Here is the Organization Summary dashboard. The dashboard contains various information such as Emission, Costs, Summary and DayType Summary. 
+
+- `Last updated On` show that time in which the data was refreshed from Envizi Data platform.
+- A top left section shows the no. of locations, accounts and meters available in this organization.
+- A section shows Emissions and Total cost. Also it shows the Actual/Accrued/Estimated percentages.
+- Summary graph shows month wise emissions data for the last 12 months.
+- Data Type Summary table shows the Emissions and Cost details for each DataType.
 
 <img src="images/120-Org-Summary-1.png">
 <img src="images/120-Org-Summary-2.png">
@@ -256,27 +261,30 @@ Here are the some of the important Power Reports available.
 
 ## 2.2 How to access Power Report
 
+#### Access via Menu
+
 1. Click on `Reports > PowerReports`
 <img src="images/210-acess-power-report-1.png">
 
 You will have power report list.
 
-2. Click on any of the report.
+2. Click on any report that interests you.
 <img src="images/210-acess-power-report-2.png">
 
 The report get displayed.
 <img src="images/210-acess-power-report-3.png">
 
-3. You can also search for the report in the Global Search
+#### Access via Global Search
+
+1. You can also search for the report in the Global Search
 <img src="images/210-acess-power-report-4.png">
 
-4. From the search result choose the appropriate report.
+2. From the search result choose the appropriate report.
 <img src="images/210-acess-power-report-5.png">
 
 ## 2.3 Power Report in Detail
 
-Lets us one of the Power Report called `Scope 3 emissions Report` in detail.
-
+Lets us look at the one of a Power Report called `Scope 3 emissions Report` in detail.
 
 #### 1. Open the Report
 
@@ -291,7 +299,7 @@ Open the report using the Reports search
 
 Here is the report home page.
 
-Click on the `>` to goto the next page
+Click on the `>` to go to the next page
 
 <img src="images/image-13.png">
 
@@ -307,7 +315,7 @@ Click on the `Select a category to enable drill through` button.
 
 Category Analyis get displayed.
 
-Click on the `>` to goto the next page
+Click on the `>` to go to the next page
 
 <img src="images/image-15.png">
 
@@ -326,7 +334,7 @@ Select the `contributor to enable drill through` button
 
 Contributor Analysis get displayed.
 
-Click on the `>` to goto the next page
+Click on the `>` to go to the next page
 
 <img src="images/image-17.png">
 
@@ -350,9 +358,7 @@ Here are the various links available to navigate to the above discussed screens.
 
 ## 2.4 PowerReport Edit
 
-The exisitng power report can be saved as a new copy and you can edit the report if you have 
-
- PowerReports can be edited and saved and kept private or shared with other Envizi users within your organization. The users with the PowerReport Edit work role can do this.
+PowerReports can be edited and saved and kept private or shared with other Envizi users within your organization. The users with the PowerReport Edit work role can do this.
 
 Here are the steps to edit the power report.
 
@@ -366,7 +372,7 @@ Here are the steps to edit the power report.
 4. Report cretaed and saved. Click on `View Report` button.
 <img src="images/220-power-report-edit-3.png">
 
-5. The report is opend for view. Click on `Edit` button.
+5. The report is opened  for view. Click on `Edit` button.
 <img src="images/220-power-report-edit-4.png">
 
 6. Make the changes.
@@ -378,7 +384,7 @@ Here are the steps to edit the power report.
 
 ## 2.5 PowerReport Datasets
 
-PowerReport Datasets are the `datasources` for the Power Reports in Envizi.  
+PowerReport Datasets are the `datasource` for the Power Reports in Envizi.  
 
 PowerReports can be viewed, edited and saved, and shared with other Envizi users within the organization.  
 
@@ -427,7 +433,7 @@ Here are the some of the important Extract Reports available.
 <tr>	<td>	Data Management	</td><td>	Account Style Data Extract	</td><td>	This report extracts account items for a single account style	</td>	</tr>
 <tr>	<td>	Data Management	</td><td>	Annual Data Summary	</td><td>	Shows annualized data held in all the accounts and meters for selected  locations	</td>	</tr>
 <tr>	<td>	Data Management	</td><td>	Monthly Data Summary Report	</td><td>	Shows all monthly data held in all the accounts and meters for selected  locations	</td>	</tr>
-<tr>	<td>	Data Management	</td><td>	Survey Responses	</td><td>	This report creates a csv file that contains all the survery responses captured	</td>	</tr>
+<tr>	<td>	Data Management	</td><td>	Survey Responses	</td><td>	This report creates a csv file that contains all the survey responses captured	</td>	</tr>
 <tr>	<td>	Emissions, Energy and Sustainability	</td><td>	Consumption  Summary Report	</td><td>	It provides a comprehensive review of the CO2e attributable to a location	</td>	</tr>
 <tr>	<td>	Emissions, Energy and Sustainability	</td><td>	Emission and Energy Factors	</td><td>	This report lists the factors used to calculate the GHG emissions and energy consumed or produced within your organization.	</td>	</tr>
 <tr>	<td>	Emissions, Energy and Sustainability	</td><td>	Emission Sources Summary Report	</td><td>	This report shows how much was consumed (kWh, L of fuel, etc.) at all locations and how much CO2e was emitted as a result.	</td>	</tr>
@@ -444,7 +450,7 @@ Here are the some of the important Extract Reports available.
 
 ## 3.2 How to extract the report
 
-1. Enter a report name in the Gobal Search. Ex: Monthly Data Summary
+1. Enter a report name in the Global  Search. Ex: Monthly Data Summary
 <img src="images/301-extract-report-monthly-data-summary-1.png">
 It will display the report in the search results.
 
@@ -459,7 +465,7 @@ It shows the report home page.
 The second page is displayed.
 <img src="images/301-extract-report-monthly-data-summary-4.png">
 
-4. Click on & DOWNLOAD AS CSV button to download the report in csv format.
+4. Click on `DOWNLOAD AS CSV` button to download the report in csv format.
 <img src="images/301-extract-report-monthly-data-summary-5.png">
 
 The csv file looks like this.
@@ -471,7 +477,7 @@ The Envizi API helps to export data from the Envizi platform and allows users to
 
 The Envizi API is built on top of Envizi's existing reporting framework. A selective list of Envizi reports can be exposed as APIs after going through a certification and validation process. With the Envizi API, users are able to get data in a pre-defined tabular report format which allows for further BI analysis and manipulation in the client tool. 
 
-Techically, Envizi API is a Web Service API which employs RESTful architecture and returns data in JSON format. 
+Technically, Envizi API is a Web Service API which employs RESTful architecture and returns data in JSON format. 
 
 Using the APIs you can able to do the following.
 - Retrieve report names
