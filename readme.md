@@ -27,7 +27,7 @@ Several controls are available in Dashboard.
 
 ## 1.1 Available Dashboards
 
-At each level there are some dashboards available. Here is the list of Dashboards available in Envizi.
+At each level there are some dashboards available. Here is the list of important Dashboards available in Envizi.
 
 <table>
     <theader>
@@ -40,39 +40,39 @@ At each level there are some dashboards available. Here is the list of Dashboard
         <td>Organization Summary</td>
         <td>
 
-[detail](./abcd)</td>
+[Detail](./abcd)</td>
     </tr>
     <tr>
         <td>Performance</td>
-        <td>[detail](https://github.com/GandhiCloudLab/envizi-reports/tree/main/50-org-performance)</td>
+        <td>[Detail](https://github.com/GandhiCloudLab/envizi-reports/tree/main/50-org-performance)</td>
     </tr>
     <tr>
         <td>Performance by Data Type</td>
-        <td>[detail](https://github.com/GandhiCloudLab/envizi-reports/tree/main/50-org-performance#user-content-9-performance-by-data-type)</td>
+        <td>[Detail](https://github.com/GandhiCloudLab/envizi-reports/tree/main/50-org-performance#user-content-9-performance-by-data-type)</td>
     </tr>
     <tr>
         <td>Performance by Group</td>
-        <td>[detail](https://github.com/GandhiCloudLab/envizi-reports/tree/main/50-org-performance#user-content-10-performance-by-group)</td>
+        <td>[Detail](https://github.com/GandhiCloudLab/envizi-reports/tree/main/50-org-performance#user-content-10-performance-by-group)</td>
     </tr>
     <tr>
         <td>Performance by Scope</td>
-        <td>[detail](https://github.com/GandhiCloudLab/envizi-reports/tree/main/50-org-performance#user-content-11-performance-by-scope)</td>
+        <td>[Detail](https://github.com/GandhiCloudLab/envizi-reports/tree/main/50-org-performance#user-content-11-performance-by-scope)</td>
     </tr>
     <tr>
         <td>Performance by Tag</td>
-        <td>[detail](https://github.com/GandhiCloudLab/envizi-reports/tree/main/50-org-performance#user-content-12-performance-by-tag-type)</td>
+        <td>[Detail](https://github.com/GandhiCloudLab/envizi-reports/tree/main/50-org-performance#user-content-12-performance-by-tag-type)</td>
     </tr>
     <tr>
         <td>Performance Trend</td>
-        <td>[detail](https://github.com/GandhiCloudLab/envizi-reports/tree/main/50-org-performance#user-content-13-performance-trend)</td>
+        <td>[Detail](https://github.com/GandhiCloudLab/envizi-reports/tree/main/50-org-performance#user-content-13-performance-trend)</td>
     </tr>
     <tr>
         <td>Emissions Performance</td>
-        <td>[detail](https://github.com/GandhiCloudLab/envizi-reports/tree/main/51-org-emission-performance)</td>
+        <td>[Detail](https://github.com/GandhiCloudLab/envizi-reports/tree/main/51-org-emission-performance)</td>
     </tr>
     <tr>
         <td>Energy Production</td>
-        <td>[detail](https://github.com/GandhiCloudLab/envizi-reports/tree/main/51-org-emission-performance#user-content-15-energy-production)</td>
+        <td>[Detail](https://github.com/GandhiCloudLab/envizi-reports/tree/main/51-org-emission-performance#user-content-15-energy-production)</td>
     </tr>
     <tr>
         <td rowspan=5>BENCHMARKS</td>
@@ -128,7 +128,7 @@ At each level there are some dashboards available. Here is the list of Dashboard
     </tr>   
     <tr>
         <td>All Boards</td>
-        <td>[detail](./abcd)</td>
+        <td>[Detail](./abcd)</td>
     </tr>           
 </table>
 
@@ -348,33 +348,7 @@ Here are the various links available to navigate to the above discussed screens.
 <img src="images/image-20.png">
 
 
-## 2.4 PowerReport Datasets
-
-PowerReport Datasets helps to create new Power Reports in Envizi. There are 3 datasets available in Envizi.
-
-PowerReports can be viewed, edited and saved, and kept private or shared with other Envizi users within your organization.  This gives users the freedom to navigate and respond to the changing reporting requirements of your organization.
-
-For customers who want to build their own reports, PowerReports can be built using Standard Datasets, available with their relevant modules:
-
-#### Monthly Dataset
-
-The Monthly Dataset is a comprehensive dataset containing monthly aggregated data from your envizi platform. It powers the majority of Standard PowerReports across many modules and can be leveraged to build powerful custom reports directly in the Envizi platform.
-
-A comprehensive dataset containing consolidated monthly data, which includes support for data type groups, ratios, and a range of standard data objects.
-
-#### Survey Dataset
-
-The Survey Dataset supports reporting on surveys and scorecards (Surveys which include scoring) in Envizi’s PowerReport framework.
-
-The dataset includes all survey responses for all surveys that have at least one question answered. If a respondent has not filled in any answers, that Location’s (which could represent a third party like a supplier or investee) survey response will not be included.
-
-A dataset containing survey responses and scoring for scorecard-type surveys.
-
-#### Daily Dataset
-
-A dataset that includes a range of daily metrics derived from interval meter data. This dataset will be supported via the Interval Meter Analytics module.
-
-## 2.5 PowerReport Edit
+## 2.4 PowerReport Edit
 
 The exisitng power report can be saved as a new copy and you can edit the report if you have 
 
@@ -400,6 +374,31 @@ Here are the steps to edit the power report.
 
 7. Report gets saved. 
 <img src="images/220-power-report-edit-5.png">
+
+
+## 2.5 PowerReport Datasets
+
+PowerReport Datasets is a datasource for the Power Reports in Envizi. 
+
+PowerReports can be viewed, edited and saved, and shared with other Envizi users within the organization.  
+
+For customers who want to build their own reports and edit the existing reports they can make use of this Dataset as a datasource.
+
+Here are the 3 datasets available in Envizi.
+
+#### Monthly Dataset
+
+The Monthly Dataset is an extensive collection of `monthly aggregated data` from your Envizi platform. It forms the backbone of most Standard PowerReports across various modules and serves as a foundation for creating impactful custom reports within the Envizi platform.
+
+#### Survey Dataset
+
+The Survey Dataset facilitates reporting on surveys and scorecards in Envizi’s PowerReport framework.
+
+The dataset includes all survey responses for all surveys where at least one question has been answered. Survey responses from locations where no answers have been provided by respondents will be excluded from the dataset.
+
+#### Daily Dataset
+
+This dataset comprises various daily metrics obtained from interval meter data. This dataset is included as part of the Interval Meter Analytics module.
 
 # 3 Extract Reports
 
@@ -474,12 +473,12 @@ The Envizi API is built on top of Envizi's existing reporting framework. A selec
 
 Techically, Envizi API is a Web Service API which employs RESTful architecture and returns data in JSON format. 
 
-Using the APIs you can able to retrive the following.
-Retrieve report names
-Retrieve report parameters
-Retrieve report data
+Using the APIs you can able to do the following.
+- Retrieve report names
+- Retrieve report parameters
+- Retrieve report data
 
-Refer the below article to know more about How to use Envizi API.
+Refer the below article to understand about How to use Envizi API.
 
 Use APIs to expose Envizi data to external systems
 https://developer.ibm.com/articles/use-apis-to-expose-envizi-data-for-external-systems/
